@@ -1,0 +1,8 @@
+.s-wbs-table-wrap { margin: 10px 0 20px; }
+.s-wbs-toolbar { margin-bottom: 8px; display:flex; gap:10px; flex-wrap:wrap; align-items:center; }
+.s-wbs-toolbar .desc { color:#555; font-size:12px; }
+.s-wbs-table th, .s-wbs-table td { vertical-align: middle; }
+.s-wbs-table input[type="text"],
+.s-wbs-table input[type="number"] { width: 120px; max-width: 140px; }
+.s-wbs-table select.states { min-width: 180px; max-width: 220px; }
+.s-wbs-mini { font-size: 11px; color: #6d6d6d; margin-top: 4px; }
